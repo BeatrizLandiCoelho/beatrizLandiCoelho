@@ -11,9 +11,9 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=beatrizLandiCoelho&show_icons=true&theme=tokyonight" 
    alt="Beatriz Landi github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizLandiCoelho&layout=true&theme=tokyonight" />
-</div>
+
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizLandiCoelho&langs_count=16&theme=tokyonight"/>
 
 
 ![9929449_thai_pattern_architecture_flower_art_icon (1)](https://user-images.githubusercontent.com/115050725/213340070-1351cce1-9a24-495b-8066-a8d314ea8435.png)SKILLS![9929449_thai_pattern_architecture_flower_art_icon (1)](https://user-images.githubusercontent.com/115050725/213340070-1351cce1-9a24-495b-8066-a8d314ea8435.png)
