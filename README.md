@@ -16,17 +16,13 @@
 <br>
 
 
-<div style="display: inline_block"><br/>
-<img src="img/python_icon.png" >
+<div align="center"><br/>
+    <img src="img/python_icon.png" >
 <img src="img/node_icon.png" >
 <img src="img/javascript__icon.png" >
 <img src="img/java_icon.png" >
 <img src="img/css_icon.png" >
 <img src="img/html5_icon.png" >
-</div>
-
-<div align="center"><br/>
-    
 </div>
 
 
